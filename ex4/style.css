@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+
+
+
+header{
+    color: green;
+}
+
+
+
+header h1{
+    color: yellow;
+}
+
+
+/* select by ID */
+
+#service{
+    background-color: aqua;
+}
+
+
+
+.card .card2{
+    color: lime;
+}
+
+.card{
+    color: purple;
+}
+
