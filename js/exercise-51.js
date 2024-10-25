@@ -12,3 +12,4 @@ let result = a[0];
     return result;
 }
 console.log(reduce(sum,a));
+

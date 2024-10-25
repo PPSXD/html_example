@@ -9,3 +9,4 @@ function max_squence(a){
     return result
 }
 console.log(max_squence(a));
+

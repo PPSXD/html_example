@@ -20,6 +20,7 @@ function min_sequence(aa) {
 }
 console.log(min_sequence(aa));
 
+
 // case 3
 function reduce(fn, aa) {
     if (aa.length === 0){

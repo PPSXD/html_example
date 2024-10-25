@@ -13,3 +13,4 @@ const groupedPets = pets.reduce((temp, i)=>{
     return temp;
 },{})
 console.log(groupedPets);
+

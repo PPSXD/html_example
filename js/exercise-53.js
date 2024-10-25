@@ -3,3 +3,4 @@ const sum = numbers.reduce((accumulator, currentValue)=>{
     return accumulator + currentValue;
 },0);
 console.log(sum);
+

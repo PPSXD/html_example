@@ -8,3 +8,4 @@ const sum = numbers.reduce((acc, value)=>{
     return acc(value);
 }, callback);
 
+
