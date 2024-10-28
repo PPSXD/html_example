@@ -23,3 +23,6 @@ body{
 h2{
     text-align: center;
 }
+.form-group{
+    margin-bottom: 15px;
+}
